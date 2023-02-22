@@ -1,0 +1,9 @@
+.workspace {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title {
+    text-align: center;
+    color: #944B01;
+}
